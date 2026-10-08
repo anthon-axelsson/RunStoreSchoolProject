@@ -3,6 +3,6 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-             x:Class="Client.Views.HomeView">
-  <TextBlock FontSize="60" FontFamily="{DynamicResource MontserratFont}" Foreground="{DynamicResource PrimaryTextColor}" Text="Welcome to Runstore"/>
+             x:Class="Client.Views.CustomersView">
+  <TextBlock FontSize="40" Text="Kund lista"/>
 </UserControl>
